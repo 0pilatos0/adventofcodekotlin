@@ -4,4 +4,4 @@ Welcome to my advent of code MEGArepo, this is where I post all my ugly code sol
 
 I also try to complete the [AOC](https://adventofcode.com/) in the programming language `Javascript`, see my other repo [here](https://github.com/0pilatos0/adventofcode)
 
-![enter image description here](https://walure.blob.core.windows.net/assets/blobs/course/550f737bc0684632a98ecb4d8c741c00.png)
+![Kotlin banner](https://miro.medium.com/max/1200/1*_Ou2bvBB0pRQqrHOE4O_VA.jpeg)
